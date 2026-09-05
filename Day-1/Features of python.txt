@@ -1,0 +1,13 @@
+The features of Python:
+Python is one of the most popular programming languages because of its simplicity and powerful features. Some of its main features are:
+
+1.Easy to Learn and Use – Python has a simple and readable syntax, making it beginner-friendly.
+2.Interpreted Language – Python code is executed line by line, making debugging easier.
+3.High-Level Language – It hides complex programming details, allowing developers to focus on solving problems.
+4.Object-Oriented – Python supports object-oriented programming (OOP) concepts like classes and objects.
+5.Portable – Python programs can run on different operating systems like Windows, Linux, and macOS without modification.
+6.Open Source – Python is free to use, distribute, and modify.
+7.Large Standard Library – It provides built-in modules and packages for tasks such as file handling, networking, mathematics, and more.
+8.Dynamically Typed – You do not need to declare variable data types explicitly.
+9.Extensible and Embeddable – Python can be extended with languages like C/C++ and embedded into other applications.
+10.Supports Multiple Programming Paradigms – Python supports procedural, object-oriented, and functional programming style
