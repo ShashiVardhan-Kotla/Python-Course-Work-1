@@ -1,0 +1,16 @@
+Token-Token is a smallest unit of program
+
+Different types of tokens:
+
+1.Identifier
+2.Operators
+3.Literal
+4.Keyword
+5.Punctuations
+
+1.IDENTIFIER
+A Identifier is a name of class function or a variable
+
+2.OPERATOR
+Operator are used perform different operations such as addition,subtraction,multiplication,division,etc.
+Different types of operators are there like Arithmetic,Relational,Logical,Bitwise operators
