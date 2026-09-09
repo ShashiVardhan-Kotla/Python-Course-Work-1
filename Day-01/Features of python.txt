@@ -10,4 +10,4 @@ Python is one of the most popular programming languages because of its simplicit
 7.Large Standard Library – It provides built-in modules and packages for tasks such as file handling, networking, mathematics, and more.
 8.Dynamically Typed – You do not need to declare variable data types explicitly.
 9.Extensible and Embeddable – Python can be extended with languages like C/C++ and embedded into other applications.
-10.Supports Multiple Programming Paradigms – Python supports procedural, object-oriented, and functional programming style.
+10.Supports Multiple Programming Paradigms - Python supports procedural, object-oriented, and functional programming style.
