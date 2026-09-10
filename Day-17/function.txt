@@ -26,4 +26,4 @@ Supports Recursion:
 Functions can call themselves to solve problems like factorials, tree traversals, etc.
 Reduces Memory Usage:
 Instead of repeating the same code multiple times, one function definition can be called whenever needed.
-"Functions improve reusability, readability, maintainability, modularity, testing, scalability, and overall efficiency of a program while reducing code duplication and complexity."
+"Functions improve reusability, readability, maintainability, modularity, testing, scalability, and overall efficiency of a program while reducing code duplication and complexity".
