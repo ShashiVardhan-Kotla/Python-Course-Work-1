@@ -1,0 +1,28 @@
+OOPS (Object-Oriented Programming System) is a programming approach that organizes code using objects and classes. 
+It helps developers write code that is reusable, secure, easy to maintain, and closer to real-world concepts.
+
+Why Do We Need OOPS?
+
+Imagine developing a large application like a banking system, e-commerce website, or social media platform. Writing everything in a single
+block of code becomes difficult to manage. OOPS solves this problem by:
+
+Code Reusability:
+Write code once and use it multiple times through inheritance.
+Reduces duplication.
+Modularity:
+Breaks a large program into smaller classes and objects.
+Makes code easier to understand and maintain.
+Data Security:
+Protects data using encapsulation.
+Prevents unauthorized access to important information.
+Easy Maintenance:
+Changes in one class have minimal impact on other parts of the program.
+Useful for large projects.
+Real-World Modeling:
+Represents real-world entities like Student, Employee, Car, BankAccount as objects.
+
+Object-Oriented Programming System (OOPS) is a programming paradigm that organizes software design around objects rather than functions 
+and logic. An object represents a real-world entity that contains both data (attributes) and behavior (methods).
+
+OOPS was introduced to overcome the limitations of procedural programming and to make software development more efficient, scalable, and
+maintainable.
