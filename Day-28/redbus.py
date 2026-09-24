@@ -27,10 +27,3 @@ shashi.displayseats()
 shashi.booking(4)
 shashi.displayseats()
 
-class Driver(Redbus):
-    def __init__(self):
-        self.name = 'Pavan'
-        self.phno = '9876543210'
-        self.__address = 'KPHB'
-        self.__email = 'Pavan@gmail.com'
-        self.__salary = '30000'
