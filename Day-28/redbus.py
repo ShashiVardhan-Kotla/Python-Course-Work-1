@@ -10,7 +10,7 @@ class Redbus:
         for i in Redbus.bus:
             if i == seatno and Redbus.bus[i] == 'Available':
                 Redbus.bus[i] = 'Booked'
-                print(f"Your seat - {seatno} is successfully Bokked")
+                print(f"Your seat - {seatno} is successfully Booked")
                 break
             else:
                 print(f"Your seat - {seatno} is already Booked")
